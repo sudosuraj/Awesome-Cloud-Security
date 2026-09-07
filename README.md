@@ -16,6 +16,7 @@ List of tools:
 | `auger`            | Tool for accessing objects stored in etcd directly          | <https://github.com/jpbetz/auger>                  |
 | `aws-vault`        | Secure storage of AWS credentials                           | <https://github.com/99designs/aws-vault>           |
 | `azurehound`       | Azure collector for Bloodhound CE                           | <https://github.com/BloodHoundAD/AzureHound>       |
+| **Darkmoon** | Autonomous pentest platform, 50 agents over MCP, reproducible proof of exploitation, self hosted | [Repo](https://github.com/ASCIT31/Dark-Moon) |
 | `bloodhound`       | Entra ID, Azure and Active Directory permission mapping\*   | <https://github.com/SpecterOps/BloodHound/>        |
 | `cartography`      | Resource relationship mapper                                | <https://github.com/lyft/cartography>              |
 | `checkov`          | Terraform static analysis and security auditing             | <https://github.com/bridgecrewio/checkov>          |
